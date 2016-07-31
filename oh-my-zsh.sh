@@ -111,3 +111,6 @@ else
     fi
   fi
 fi
+
+#by zs
+. $HOME/linuxetc/alias.bashrc
