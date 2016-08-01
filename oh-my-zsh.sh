@@ -113,4 +113,4 @@ else
 fi
 
 #by zs
-. $HOME/linuxetc/alias.bashrc
+. /home/zs/linuxetc/alias.bashrc
